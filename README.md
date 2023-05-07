@@ -11,4 +11,7 @@ The dummy data is stored as csv, once again split up. It is the same dates over 
 as those in the examples given.
 
 I have treated the data as a static object, so the majority of the code is coded for the data given,
-and will throw errors if there are big changes to the dataset.
+and will produce errors if there are big changes to the dataset.
+ 
+You will need to add an API key in to retrieve the latest data, or you can use the csv files provided and read
+those in. That is data that was obtained on 2023-05-07.
